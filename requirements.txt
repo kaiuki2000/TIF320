@@ -1,0 +1,8 @@
+numpy
+matplotlib
+scipy
+ipykernel
+pytest
+wheel
+ase
+gpaw
